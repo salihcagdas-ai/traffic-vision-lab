@@ -1,0 +1,10 @@
+{
+  "image_size": [960, 540],
+  "source_points": [[220, 140], [740, 140], [740, 500], [220, 500]],
+  "width_m": 26,
+  "height_m": 18,
+  "stop_line": [[220, 335], [740, 335]],
+  "light_roi": [810, 140, 855, 185],
+  "speed_limits_kmh": {"car": 12},
+  "crossing_direction": 1
+}
